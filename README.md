@@ -1,8 +1,8 @@
-Image Watermarking Desktop App
+#Image Watermarking Desktop App
 
 A simple Python desktop application that allows users to add text or image watermarks to their images. Users can preview the watermark in real-time, adjust opacity, position, and font size (for text), and save the final watermarked image.
 
-Features
+#Features
 
 Upload and preview your main image
 
